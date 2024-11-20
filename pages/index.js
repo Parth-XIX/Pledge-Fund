@@ -1,7 +1,7 @@
 import React, { useEffect, useContext, useState } from "react";
 // INTERNAL IMPORT
 import { Pledge_Fund_Context } from ". /Context/Pledge_Fund";
-import { Hero, Card, PupUp } from ". /Components";
+import { Hero, Card, PopUp } from ". /Components";
 const index = () =>
     const{
       titleData,
