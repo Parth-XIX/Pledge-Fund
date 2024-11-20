@@ -43,7 +43,7 @@ return (
   setDonate={setDonateCampaign}
 />
     {openModel && (
-      <PupUp
+      <PopUp
         setOpenModel={setOpenModel}
         getDonations={getDonations}
         donate={donateCampaign}
