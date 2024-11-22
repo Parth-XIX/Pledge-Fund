@@ -4,5 +4,5 @@ import Logo from './Logo'
 import Menu from './Menu'
 import Hero from './Hero';
 import PopUp from './PopUp';
-import Card from './Card';|
+import Card from './Card';
 export {Footer,NavBar, Logo, Menu,Hero,PopUp,Card};
